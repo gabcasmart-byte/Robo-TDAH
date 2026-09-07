@@ -20,7 +20,7 @@ Com base nas informações obtidas, o sistema pode gerar intervenções para aux
 ### 2. Instalar dependências (só na primeira vez)
 No terminal, digite:
 ```bash
-pip install opencv-python mediapipe onnxruntime numpy
+pip install opencv-python mediapipe onnxruntime numpy tflite-runtime
 ```
 E pressione <kbd>Enter</kbd> para instalar
 ### 3. Rodar o sistema
